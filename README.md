@@ -4,8 +4,8 @@
 
 我这里做了一份简约版，效果图见下图：
 
-![duoshuo](/duoshuo/img/duoshuo.png) 
+![image](https://github.com/ColourCloudSky/duoshuo/img/duoshuo.png) 
 
 使用方法，将css源码直接复制到多说后台设置中，见截图：
 
-![shiyong](/duoshuo/img/shiyong.png)  
+![image](https://github.com/ColourCloudSky/duoshuo/img/shiyong.png)  
